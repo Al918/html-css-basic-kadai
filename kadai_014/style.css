@@ -1,6 +1,7 @@
 html {
     text-align: center;
     font-family: "Arial", "Meiryo", sans-serif;
+    font-size: 20px;
 }
 
 .pink {
@@ -14,7 +15,7 @@ html {
     font-weight: bold;
 }
 
-header {
+h1 {
     /* h1のCSSを書く */
     letter-spacing: 1.2em;
     text-shadow: 1px 1px 2px gray;
